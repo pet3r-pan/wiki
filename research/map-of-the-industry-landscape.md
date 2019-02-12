@@ -1,11 +1,15 @@
 # \#dgov Global Map
 
-Local hubs aligned with \#dgov
+## Local hubs aligned with \#dgov
+
+Add your name according to the world map and the associated organistion.
 
 ## Europe
 
 * London – Furtherfield
-* Berlin – Supermarkt
+* Berlin
+    * Ela Kagel — Supermarkt
+    * Pet3rpan — MetaCartel
 * Paris – Tribute
 * Madrid – LegalBlock, P2P Models
 * Prague – Institute of crypto-anarchy
@@ -24,8 +28,12 @@ Local hubs aligned with \#dgov
 
 ## Asia
 
+* Shanghai 
+    * Pet3rpan — ETHShanghai
 * Hong Kong
 * Singapore
+* Sydney
+    * Pet3rpan — ETHSydney, Ethereum Australia
 
 ## Middle East
 
